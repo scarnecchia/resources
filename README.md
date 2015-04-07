@@ -1,10 +1,10 @@
-#resources
+#Resources
 This is an attempt to build a list of web-development tools and libraries that I use for various projects.
 
-#Presentations
+##Presentations
 Reveal.js (https://github.com/hakimel/reveal.js)
 
-#maps
+##maps
 Mapbox
 D3
 Leaflet
