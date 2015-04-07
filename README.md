@@ -1,9 +1,15 @@
 #Resources
-A list of tools and libraries that I use for various projects.
+A list of tools and libraries that I use for my various projects, as well as to learn new things.
 
 ##Presentations
 - Reveal.js (https://github.com/hakimel/reveal.js)
 - Big (https://github.com/tmcw/big)
+- 
+
+##Writing
+- https://draftin.com
+- http://prose.io
+- https://typewrite.io
 
 ##Maps
 - Mapbox
