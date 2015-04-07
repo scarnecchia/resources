@@ -1,6 +1,3 @@
-#Resources
-A list of tools and libraries that I use for my various projects, as well as to learn new things.
-
 ##Presentations
 - Reveal.js (https://github.com/hakimel/reveal.js) - Pretty, useful, learning curve
 - Big (https://github.com/tmcw/big) - Not pretty, useful, easy
