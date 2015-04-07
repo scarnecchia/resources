@@ -6,9 +6,10 @@ A list of tools and libraries that I use for my various projects, as well as to 
 - Big (https://github.com/tmcw/big)
 
 ##Writing
-- https://draftin.com
-- http://prose.io
-- https://typewrite.io
+- Draft (https://draftin.com)
+- Prose (http://prose.io)
+- Typewrite (https://typewrite.io)
+- Poetica (https://poetica.com)
 
 ##Maps
 - Mapbox
