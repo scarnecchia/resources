@@ -2,14 +2,14 @@
 A list of tools and libraries that I use for my various projects, as well as to learn new things.
 
 ##Presentations
-- Reveal.js (https://github.com/hakimel/reveal.js)
-- Big (https://github.com/tmcw/big)
+- Reveal.js (https://github.com/hakimel/reveal.js) - Pretty, useful, learning curve
+- Big (https://github.com/tmcw/big) - Not pretty, useful, easy
 
 ##Writing
-- Draft (https://draftin.com)
-- Prose (http://prose.io)
-- Typewrite (https://typewrite.io)
-- Poetica (https://poetica.com)
+- Draft (https://draftin.com) - Not pretty, useful
+- Prose (http://prose.io) - Very pretty, useful
+- Typewrite (https://typewrite.io) - Untested
+- Poetica (https://poetica.com) - Untested
 
 ##Maps
 - Mapbox
