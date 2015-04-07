@@ -4,7 +4,6 @@ A list of tools and libraries that I use for my various projects, as well as to 
 ##Presentations
 - Reveal.js (https://github.com/hakimel/reveal.js)
 - Big (https://github.com/tmcw/big)
-- 
 
 ##Writing
 - https://draftin.com
