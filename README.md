@@ -1,7 +1,7 @@
 ##Presentations
 - [Reveal.js](https://github.com/hakimel/reveal.js) - Pretty, useful, learning curve
-– [mistakes](http://mistakes.io)
 - [Big](https://github.com/tmcw/big) - Not pretty, useful, easy
+– [mistakes](http://mistakes.io) - Visualize what your JS does.
 
 ##Writing
 - [Draft](https://draftin.com) - Not pretty, useful
@@ -10,7 +10,7 @@
 - [Poetica](https://poetica.com) - Untested
 
 ##Code Editors
-- [Tributary](http://tributary.io/inlet/)
+- [Tributary](http://tributary.io/inlet/) – d3 live preview
 
 ##Maps
 - [Mapbox](mapbox.com)
