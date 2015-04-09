@@ -1,5 +1,6 @@
 ##Presentations
 - [Reveal.js](https://github.com/hakimel/reveal.js) - Pretty, useful, learning curve
+– [mistakes](http://mistakes.io)
 - [Big](https://github.com/tmcw/big) - Not pretty, useful, easy
 
 ##Writing
@@ -7,6 +8,9 @@
 - [Prose](http://prose.io) - Very pretty, useful
 - [Typewrite](https://typewrite.io) - Untested
 - [Poetica](https://poetica.com) - Untested
+
+##Code Editors
+– [Tributary](http://tributary.io/inlet/)
 
 ##Maps
 - [Mapbox](mapbox.com)
@@ -22,4 +26,6 @@
 
 ##Stats
 - [Simple JS Stats](https://github.com/tmcw/simple-statistics)
+
+
 
