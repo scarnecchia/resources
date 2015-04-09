@@ -1,7 +1,7 @@
 ##Presentations
 - [Reveal.js](https://github.com/hakimel/reveal.js) - Pretty, useful, learning curve
 - [Big](https://github.com/tmcw/big) - Not pretty, useful, easy
-– [mistakes](http://mistakes.io) - Visualize what your JS does.
+- [mistakes](http://mistakes.io) - Visualize what your JS does.
 
 ##Writing
 - [Draft](https://draftin.com) - Not pretty, useful
