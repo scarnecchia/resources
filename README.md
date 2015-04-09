@@ -10,7 +10,7 @@
 - [Poetica](https://poetica.com) - Untested
 
 ##Code Editors
-– [Tributary](http://tributary.io/inlet/)
+- [Tributary](http://tributary.io/inlet/)
 
 ##Maps
 - [Mapbox](mapbox.com)
